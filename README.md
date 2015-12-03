@@ -14,7 +14,7 @@ Hello my name is Alejandro and i work as a Front End developer these are some of
 
  ## Skills I offer :
 
--Front-End-Architecture.
--Responsive Web Design.
--PSD to HTML (Creating & Maintaining UI).
--Good understanding, communication skills and estimation.
+- Front-End-Architecture.
+- Responsive Web Design.
+- PSD to HTML (Creating & Maintaining UI).
+- Good understanding, communication skills and estimation.
