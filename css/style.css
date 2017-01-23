@@ -1,5 +1,5 @@
 body {
-    background: #263238;
+    background: url('../img/header.jpg');
     color: #757575;
     font-family: 'Alegreya Sans', sans-serif;
     letter-spacing: 2px;
@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: #fff;
+    background: url('../img/pink.jpg');
     padding: 70px 75px;
     margin: 50px auto;
     border: 1px solid #a5d4fc;
@@ -145,7 +145,7 @@ footer a {
 @media only screen and (min-width : 480px) {
 
     #header {
-        background: #f6f6f6;
+        background: url('../img/pink.jpg') ;
         margin: -70px -75px -41px -75px;
         padding: 25px;
     }
@@ -156,7 +156,7 @@ footer a {
 @media only screen and (min-width : 768px) {
 
     #header {
-        background: #f6f6f6;
+        background: url('../img/pink.jpg');
         margin: -70px -75px -41px -75px;
         padding: 25px;
     }
